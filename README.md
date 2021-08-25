@@ -40,7 +40,7 @@ use the S3Fd Detector and Fan Aligner to extract facial images.
 
 #2) Feature Points Statistics
 First, download the [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
-to the *./code_for_ACM_MM21_paper_1009/*
+to the *./*
 
 ```
 cd ..
