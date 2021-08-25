@@ -81,7 +81,3 @@ python generalization_test.py -h
 ```
 python features_importances.py -h
 ```
-
-
-# FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects
-# FFR_FD-Effective-and-Fast-Detection-of-DeepFakes-Based-on-Feature-Point-Defects
