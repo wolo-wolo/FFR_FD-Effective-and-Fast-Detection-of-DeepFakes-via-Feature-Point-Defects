@@ -1,0 +1,196 @@
+DFD:
+sift_real
+entire
+mean:  118.70613587025923
+mouth
+mean:  15.12058853442723
+inner_mouth
+mean:  9.942468725633114
+right_eyebrow
+mean:  2.578868693731952
+left_eyebrow
+mean:  2.542276918904258
+right_eye
+mean:  6.086246058921247
+left_eye
+mean:  6.147879445367326
+nose
+mean:  10.758450011865614
+jaw
+mean:  88.97305999347897
+surf_real
+entire
+mean:  195.873802834887
+mouth
+mean:  26.26375563616639
+inner_mouth
+mean:  10.727463809878971
+right_eyebrow
+mean:  6.7680992016307115
+left_eyebrow
+mean:  7.589876593436398
+right_eye
+mean:  5.392955215784656
+left_eye
+mean:  5.577211241821202
+nose
+mean:  19.57829609790826
+jaw
+mean:  150.94057711118356
+orb_real
+entire
+mean:  208.23071766057976
+mouth
+mean:  46.922500593280674
+inner_mouth
+mean:  35.935925687358036
+right_eyebrow
+mean:  4.708476303720061
+left_eyebrow
+mean:  4.505119338215351
+right_eye
+mean:  24.153981760857036
+left_eye
+mean:  24.96145370715666
+nose
+mean:  46.472861646947145
+jaw
+mean:  193.7102624714705
+fast_real
+entire
+mean:  193.84005874090155
+mouth
+mean:  32.098789707427876
+inner_mouth
+mean:  20.731599823710887
+right_eyebrow
+mean:  7.7414982164090365
+left_eyebrow
+mean:  8.265358014646054
+right_eye
+mean:  13.723666813574262
+left_eye
+mean:  14.258365257483812
+nose
+mean:  23.256195545309694
+jaw
+mean:  162.36546299315293
+akaze_real
+entire
+mean:  52.70776401481292
+mouth
+mean:  11.564871003830898
+inner_mouth
+mean:  7.934264501474726
+right_eyebrow
+mean:  1.6969254289111602
+left_eyebrow
+mean:  1.5368524545701112
+right_eye
+mean:  4.627318032342272
+left_eye
+mean:  4.668440858392379
+nose
+mean:  13.986032477879107
+jaw
+mean:  48.42292957287251
+
+
+DFD:
+sift_fake
+entire
+mean:  100.16310213871677
+mouth
+mean:  7.77456188767766
+inner_mouth
+mean:  4.433903684283152
+right_eyebrow
+mean:  1.9329118734238435
+left_eyebrow
+mean:  1.9683306309725048
+right_eye
+mean:  4.34854027193043
+left_eye
+mean:  4.4930811967286655
+nose
+mean:  9.1051105973291
+jaw
+mean:  73.87628261506889
+surf_fake
+entire
+mean:  183.5286827903258
+mouth
+mean:  22.95429143093694
+inner_mouth
+mean:  9.544466675865875
+right_eyebrow
+mean:  5.98828894185926
+left_eyebrow
+mean:  6.322144409562908
+right_eye
+mean:  4.990889640416868
+left_eye
+mean:  5.240588012008696
+nose
+mean:  17.02594982573588
+jaw
+mean:  141.11613686811577
+orb_fake
+entire
+mean:  160.01192617762675
+mouth
+mean:  25.415447771491653
+inner_mouth
+mean:  17.725334621222576
+right_eyebrow
+mean:  3.5274121670639444
+left_eyebrow
+mean:  3.1744230172146133
+right_eye
+mean:  17.95310235350956
+left_eye
+mean:  19.328099658373304
+nose
+mean:  38.69995513992892
+jaw
+mean:  146.60577124429366
+fast_fake
+entire
+mean:  131.37224332067427
+mouth
+mean:  13.439630191803506
+inner_mouth
+mean:  8.376293638747068
+right_eyebrow
+mean:  4.529415828928732
+left_eyebrow
+mean:  4.6630558526235895
+right_eye
+mean:  8.431568776313066
+left_eye
+mean:  8.933469063804823
+nose
+mean:  15.070050726388073
+jaw
+mean:  107.95401432340746
+akaze_fake
+entire
+mean:  50.033313345326135
+mouth
+mean:  9.661998068166138
+inner_mouth
+mean:  6.331792465847937
+right_eyebrow
+mean:  1.5145265485197084
+left_eyebrow
+mean:  1.3335978197122849
+right_eye
+mean:  4.6451100835116295
+left_eye
+mean:  4.899064840056592
+nose
+mean:  13.553435246212775
+jaw
+mean:  45.78770364786196
+
+
