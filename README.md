@@ -1,6 +1,4 @@
-# FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects
-
-[Code for paper 'FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects']
+# FFR_FD: Effective and Fast Detection of DeepFakes via Feature Point Defects
 
 
 
@@ -80,4 +78,17 @@ python generalization_test.py -h
 #6)features importance：
 ```
 python features_importances.py -h
+```
+
+If you find this useful for your research, please consider citing:
+```
+@article{wang2022ffr_fd,
+  title={FFR\_FD: Effective and fast detection of DeepFakes via feature point defects},
+  author={Wang, Gaojian and Jiang, Qian and Jin, Xin and Cui, Xiaohui},
+  journal={Information Sciences},
+  volume={596},
+  pages={472--488},
+  year={2022},
+  publisher={Elsevier}
+}
 ```
